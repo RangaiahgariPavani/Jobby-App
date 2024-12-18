@@ -1,0 +1,50 @@
+.profile-loader-container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+}
+
+.profile-error-view-container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+}
+
+.profile-failure-btn{
+padding: 8px 32px;
+border-radius: 6px;
+border: none;
+outline: none;
+cursor: pointer;
+background-color: #4f46e5;
+color: #ffffff;
+font-size: 12px;
+font-family: 'Roboto';
+}
+
+.profile-success-container{
+background-image: url('');
+background-size: cover;
+height: 200px;
+margin-bottom: 30px;
+border-radius: 40px;
+padding: 30px;
+}
+
+.profile-img{
+width: 40px;
+}
+
+.profile-heading{
+color: #6366f1;
+font-size: 18px;
+font-family: 'Roboto';
+}
+
+.profile-bio{
+color: #7e858e;
+font-size: 16px;
+font-family: 'Roboto';
+}
